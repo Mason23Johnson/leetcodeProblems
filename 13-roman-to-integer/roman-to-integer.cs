@@ -1,4 +1,7 @@
-class Solution
+using System;
+using System.Collections.Generic;
+
+public class Solution
 {
     public int RomanToInt(string s)
     {
@@ -29,5 +32,4 @@ class Solution
 
         return total;
     }
-
 }
